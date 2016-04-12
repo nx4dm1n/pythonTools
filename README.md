@@ -1,2 +1,4 @@
-# pythonTools
-安全测试用python小脚本
+# PythonTools
+author by nx4dm1n
+安全测试用的python小脚本
+
